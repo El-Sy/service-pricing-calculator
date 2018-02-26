@@ -1,0 +1,27 @@
+{
+    "logo": "https://cdn.jaga-me.com/logos/v2/logo.pink.small.png",
+    "services": [
+        {
+            "title": "Non-Medical Caregiving",
+            "param": "non-medical-caregiving"
+        },
+        {
+            "title": "Standard Nursing Caregiving",
+            "param": "standard-nursing-caregiving"
+        }
+    ],
+    "others": [
+        {
+            "title": "Medical Escort",
+            "param": "medical-escort"
+        },
+        {
+            "title": "Nursing Escort",
+            "param": "nursing-escort"
+        },
+        {
+            "title": "Care Assessment",
+            "param": "care-assessment"
+        }
+    ]
+}

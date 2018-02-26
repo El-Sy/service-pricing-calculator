@@ -1,0 +1,65 @@
+html, body {
+    /* font: 14px/1.21 'OpenSans', arial, sans-serif; */
+    font-family: 'Open Sans', sans-serif;
+    src: url("https://fonts.googleapis.com/css?family=Open+Sans");
+    font-weight: 400;
+    height:100%;
+    margin:0px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.flatpickr-day {
+    max-width: 49px !important;
+    width: 49px !important;
+    height: 49px !important;
+    background: none;
+    border: 1px solid transparent;
+    border-radius: 150px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #393939;
+    cursor: pointer;
+    font-weight: 400;
+    width: 14.2857143%;
+    -ms-flex-preferred-size: 14.2857143%;
+    flex-basis: 14.2857143%;
+    margin: 0;
+    display: flex;
+    position: relative;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    line-height: 45px !important;
+}
+
+.dayContainer {
+    width: auto !important;
+    min-width: none !important;
+    max-width: none !important;
+}
+
+.centerRowItems {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+}
+.circle{
+    width:64px;
+    height:64px;
+    background: #eb7073;
+    border-radius: 32px;
+    color:white;
+}
+
+.pill{
+    display: flex;
+    text-align:center;
+    border-radius: 3rem;
+    flex-direction: column;
+    padding:0.5rem;
+}
